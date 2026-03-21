@@ -56,6 +56,14 @@
     "snapDefault": { "x": 256, "y": 274, "width": 250, "height": 118 }
   },
   {
+    "id": "eyes-wide-open",
+    "filename": "eyes/wide-open-eyes.png",
+    "category": "eyes",
+    "displayName": "Wide Open Eyes",
+    "nativeSize": 332,
+    "snapDefault": { "x": 256, "y": 264, "width": 332, "height": 156 }
+  },
+  {
     "id": "eyes-winking-open",
     "filename": "eyes/winking-open-eye.png",
     "category": "eyes",
