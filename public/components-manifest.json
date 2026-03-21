@@ -96,12 +96,36 @@
     "snapDefault": { "x": 256, "y": 318, "width": 252, "height": 124 }
   },
   {
-    "id": "mouth-tongue-out",
-    "filename": "mouth/open-mouth-tongue-out.png",
+    "id": "mouth-tongue",
+    "filename": "mouth/tongue.png",
     "category": "mouth",
-    "displayName": "Open Mouth Tongue Out",
-    "nativeSize": 512,
-    "snapDefault": { "x": 256, "y": 256, "width": 512, "height": 512 }
+    "displayName": "Tongue",
+    "nativeSize": 130,
+    "snapDefault": { "x": 256, "y": 408, "width": 130, "height": 144 }
+  },
+  {
+    "id": "mouth-lips",
+    "filename": "mouth/lips.png",
+    "category": "mouth",
+    "displayName": "Lips",
+    "nativeSize": 454,
+    "snapDefault": { "x": 256, "y": 340, "width": 196, "height": 133 }
+  },
+  {
+    "id": "mouth-biting-lip",
+    "filename": "mouth/biting-lip.png",
+    "category": "mouth",
+    "displayName": "Biting Lip",
+    "nativeSize": 454,
+    "snapDefault": { "x": 256, "y": 338, "width": 196, "height": 130 }
+  },
+  {
+    "id": "accessories-drop",
+    "filename": "accessories/drop.png",
+    "category": "accessories",
+    "displayName": "Drop",
+    "nativeSize": 264,
+    "snapDefault": { "x": 121, "y": 337, "width": 99, "height": 162 }
   },
   {
     "id": "accessories-angel-halo",

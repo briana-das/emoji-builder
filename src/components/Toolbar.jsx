@@ -51,15 +51,20 @@ export default function Toolbar({
       <div className="flex-1" />
 
       {/* View library */}
-      <Button
-        variant="ghost"
-        size="sm"
-        onClick={onViewLibrary}
-        className="text-sm font-normal gap-1.5"
-      >
-        <BookMarked className="size-4" />
-        View library
-      </Button>
+      <Tooltip>
+        <TooltipTrigger asChild>
+          <Button
+            variant="ghost"
+            size="sm"
+            onClick={onViewLibrary}
+            className="text-sm font-normal gap-1.5"
+          >
+            <BookMarked className="size-4" />
+            <span className="hidden sm:inline">View library</span>
+          </Button>
+        </TooltipTrigger>
+        <TooltipContent className="text-xs sm:hidden">View library</TooltipContent>
+      </Tooltip>
 
       {/* Save split button */}
       <DropdownMenu>
@@ -69,7 +74,7 @@ export default function Toolbar({
             className="bg-foreground text-background hover:bg-foreground/90 text-sm font-medium gap-1"
           >
             <Save className="size-3.5" />
-            Save
+            <span className="hidden sm:inline">Save</span>
             <ChevronDown className="size-3.5 opacity-70" />
           </Button>
         </DropdownMenuTrigger>
