@@ -1,0 +1,54 @@
+[
+  {
+    "id": "preset-distraught-face",
+    "displayName": "Distraught Face",
+    "thumbnail": "/preset-previews/distraught-face.png",
+    "componentIds": [
+      "base-circle-yellow",
+      "brows-pinched-close-set-high",
+      "eyes-squint-close-set-high",
+      "mouth-distraught-open"
+    ]
+  },
+  {
+    "id": "preset-heart-eyes",
+    "displayName": "Heart Eyes",
+    "thumbnail": "/preset-previews/heart-eyes.png",
+    "componentIds": [
+      "base-circle-yellow",
+      "eyes-heart",
+      "mouth-open-smile"
+    ]
+  },
+  {
+    "id": "preset-rolling-eyes",
+    "displayName": "Rolling Eyes",
+    "thumbnail": "/preset-previews/rolling-eyes.png",
+    "componentIds": [
+      "base-circle-yellow",
+      "eyes-rolling",
+      "mouth-flat"
+    ]
+  },
+  {
+    "id": "preset-slightly-smiling",
+    "displayName": "Slightly Smiling",
+    "thumbnail": "/preset-previews/slightly-smiling.png",
+    "componentIds": [
+      "base-circle-yellow",
+      "eyes-normal",
+      "mouth-slight-smile"
+    ]
+  },
+  {
+    "id": "preset-persevering-face",
+    "displayName": "Persevering Face",
+    "thumbnail": "/preset-previews/perservering-face.png",
+    "componentIds": [
+      "base-circle-yellow",
+      "brows-pinched-wide-set-mid",
+      "eyes-squint-close-set",
+      "mouth-slight-frown-open"
+    ]
+  }
+]
