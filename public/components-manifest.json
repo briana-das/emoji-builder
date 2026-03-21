@@ -1,5 +1,13 @@
 [
   {
+    "id": "base-blushing",
+    "filename": "base/blushing-base.png",
+    "category": "base",
+    "displayName": "Blushing Base",
+    "nativeSize": 400,
+    "snapDefault": { "x": 256, "y": 256, "width": 400, "height": 400 }
+  },
+  {
     "id": "base-circle-yellow",
     "filename": "base/yellow-base.png",
     "category": "base",
