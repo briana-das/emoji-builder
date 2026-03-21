@@ -1,0 +1,178 @@
+[
+  {
+    "id": "base-circle-yellow",
+    "filename": "base/yellow-base.png",
+    "category": "base",
+    "displayName": "Yellow Face",
+    "nativeSize": 400,
+    "snapDefault": { "x": 256, "y": 256, "width": 400, "height": 400 }
+  },
+  {
+    "id": "eyes-default",
+    "filename": "eyes/eyes-default.png",
+    "category": "eyes",
+    "displayName": "Default Eyes",
+    "nativeSize": 128,
+    "snapDefault": { "x": 256, "y": 190, "width": 220, "height": 220 }
+  },
+  {
+    "id": "eyes-heart",
+    "filename": "eyes/heart-eyes.png",
+    "category": "eyes",
+    "displayName": "Heart Eyes",
+    "nativeSize": 320,
+    "snapDefault": { "x": 256, "y": 233, "width": 320, "height": 146 }
+  },
+  {
+    "id": "eyes-normal",
+    "filename": "eyes/normal-eyes.png",
+    "category": "eyes",
+    "displayName": "Normal Eyes",
+    "nativeSize": 178,
+    "snapDefault": { "x": 256, "y": 209, "width": 178, "height": 83 }
+  },
+  {
+    "id": "eyes-rolling",
+    "filename": "eyes/rolling-eyes.png",
+    "category": "eyes",
+    "displayName": "Rolling Eyes",
+    "nativeSize": 337,
+    "snapDefault": { "x": 257, "y": 251, "width": 337, "height": 155 }
+  },
+  {
+    "id": "eyes-squint-close-set-high",
+    "filename": "eyes/squint-eyes-close-set-high.png",
+    "category": "eyes",
+    "displayName": "Squint Eyes Close Set High",
+    "nativeSize": 250,
+    "snapDefault": { "x": 256, "y": 203, "width": 250, "height": 118 }
+  },
+  {
+    "id": "eyes-squint-close-set",
+    "filename": "eyes/squint-eyes-close-set.png",
+    "category": "eyes",
+    "displayName": "Squint Eyes Close Set",
+    "nativeSize": 250,
+    "snapDefault": { "x": 256, "y": 274, "width": 250, "height": 118 }
+  },
+  {
+    "id": "eyes-winking-open",
+    "filename": "eyes/winking-open-eye.png",
+    "category": "eyes",
+    "displayName": "Winking Open Eye",
+    "nativeSize": 306,
+    "snapDefault": { "x": 268, "y": 226, "width": 306, "height": 156 }
+  },
+  {
+    "id": "mouth-smile",
+    "filename": "mouth/smile.png",
+    "category": "mouth",
+    "displayName": "Smile",
+    "nativeSize": 128,
+    "snapDefault": { "x": 256, "y": 345, "width": 160, "height": 160 }
+  },
+  {
+    "id": "mouth-open-smile",
+    "filename": "mouth/open-smile.png",
+    "category": "mouth",
+    "displayName": "Open Smile",
+    "nativeSize": 226,
+    "snapDefault": { "x": 256, "y": 380, "width": 226, "height": 94 }
+  },
+  {
+    "id": "mouth-slight-smile",
+    "filename": "mouth/slight-smile.png",
+    "category": "mouth",
+    "displayName": "Slight Smile",
+    "nativeSize": 182,
+    "snapDefault": { "x": 256, "y": 339, "width": 182, "height": 67 }
+  },
+  {
+    "id": "mouth-slight-frown-open",
+    "filename": "mouth/slight-frown-open.png",
+    "category": "mouth",
+    "displayName": "Slight Frown Open",
+    "nativeSize": 136,
+    "snapDefault": { "x": 256, "y": 364, "width": 136, "height": 66 }
+  },
+  {
+    "id": "mouth-flat",
+    "filename": "mouth/flat-mouth.png",
+    "category": "mouth",
+    "displayName": "Flat Mouth",
+    "nativeSize": 106,
+    "snapDefault": { "x": 256, "y": 374, "width": 106, "height": 38 }
+  },
+  {
+    "id": "mouth-distraught-open",
+    "filename": "mouth/distraught-mouth-open.png",
+    "category": "mouth",
+    "displayName": "Distraught Mouth Open",
+    "nativeSize": 252,
+    "snapDefault": { "x": 256, "y": 318, "width": 252, "height": 124 }
+  },
+  {
+    "id": "mouth-tongue-out",
+    "filename": "mouth/open-mouth-tongue-out.png",
+    "category": "mouth",
+    "displayName": "Open Mouth Tongue Out",
+    "nativeSize": 512,
+    "snapDefault": { "x": 256, "y": 256, "width": 512, "height": 512 }
+  },
+  {
+    "id": "hands-wave",
+    "filename": "hands/wave-hand.png",
+    "category": "hands",
+    "displayName": "Wave Hand",
+    "nativeSize": 128,
+    "snapDefault": { "x": 390, "y": 385, "width": 115, "height": 115 }
+  },
+  {
+    "id": "accessories-top-hat",
+    "filename": "accessories/top-hat.png",
+    "category": "accessories",
+    "displayName": "Top Hat",
+    "nativeSize": 128,
+    "snapDefault": { "x": 256, "y": 78, "width": 170, "height": 170 }
+  },
+  {
+    "id": "accessories-angel-halo",
+    "filename": "accessories/angel-halo.png",
+    "category": "accessories",
+    "displayName": "Angel Halo",
+    "nativeSize": 416,
+    "snapDefault": { "x": 256, "y": 101, "width": 416, "height": 119 }
+  },
+  {
+    "id": "accessories-poop-face",
+    "filename": "accessories/poop-face.png",
+    "category": "accessories",
+    "displayName": "Poop Face",
+    "nativeSize": 228,
+    "snapDefault": { "x": 256, "y": 311, "width": 228, "height": 186 }
+  },
+  {
+    "id": "extras-sparkle",
+    "filename": "extras/sparkle.png",
+    "category": "accessories",
+    "displayName": "Sparkle",
+    "nativeSize": 128,
+    "snapDefault": { "x": 418, "y": 95, "width": 90, "height": 90 }
+  },
+  {
+    "id": "brows-pinched-close-set-high",
+    "filename": "brows/pinched-brows-close-set-high.png",
+    "category": "brows",
+    "displayName": "Pinched Brows Close Set High",
+    "nativeSize": 244,
+    "snapDefault": { "x": 256, "y": 112, "width": 244, "height": 62 }
+  },
+  {
+    "id": "brows-pinched-wide-set-mid",
+    "filename": "brows/pinched-brows-wide-set-mid.png",
+    "category": "brows",
+    "displayName": "Pinched Brows Wide Set Mid",
+    "nativeSize": 314,
+    "snapDefault": { "x": 256, "y": 182, "width": 314, "height": 62 }
+  }
+]
