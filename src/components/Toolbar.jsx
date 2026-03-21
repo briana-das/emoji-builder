@@ -38,9 +38,7 @@ export default function Toolbar({
   return (
     <header className="flex items-center gap-1 px-4 h-12 border-b bg-background shrink-0">
       {/* Brand */}
-      <span className="text-sm font-semibold select-none tracking-tight mr-1">
-        emojimix
-      </span>
+      <img src="/logomark.png" alt="emoji builder" className="h-5 select-none mr-1" />
 
       {/* Undo / Redo */}
       <TipBtn label="Undo (⌘Z)" onClick={onUndo} disabled={!canUndo}>
