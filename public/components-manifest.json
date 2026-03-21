@@ -8,14 +8,6 @@
     "snapDefault": { "x": 256, "y": 256, "width": 400, "height": 400 }
   },
   {
-    "id": "eyes-default",
-    "filename": "eyes/eyes-default.png",
-    "category": "eyes",
-    "displayName": "Default Eyes",
-    "nativeSize": 128,
-    "snapDefault": { "x": 256, "y": 190, "width": 220, "height": 220 }
-  },
-  {
     "id": "eyes-heart",
     "filename": "eyes/heart-eyes.png",
     "category": "eyes",
@@ -62,14 +54,6 @@
     "displayName": "Winking Open Eye",
     "nativeSize": 306,
     "snapDefault": { "x": 268, "y": 226, "width": 306, "height": 156 }
-  },
-  {
-    "id": "mouth-smile",
-    "filename": "mouth/smile.png",
-    "category": "mouth",
-    "displayName": "Smile",
-    "nativeSize": 128,
-    "snapDefault": { "x": 256, "y": 345, "width": 160, "height": 160 }
   },
   {
     "id": "mouth-open-smile",
@@ -120,22 +104,6 @@
     "snapDefault": { "x": 256, "y": 256, "width": 512, "height": 512 }
   },
   {
-    "id": "hands-wave",
-    "filename": "hands/wave-hand.png",
-    "category": "hands",
-    "displayName": "Wave Hand",
-    "nativeSize": 128,
-    "snapDefault": { "x": 390, "y": 385, "width": 115, "height": 115 }
-  },
-  {
-    "id": "accessories-top-hat",
-    "filename": "accessories/top-hat.png",
-    "category": "accessories",
-    "displayName": "Top Hat",
-    "nativeSize": 128,
-    "snapDefault": { "x": 256, "y": 78, "width": 170, "height": 170 }
-  },
-  {
     "id": "accessories-angel-halo",
     "filename": "accessories/angel-halo.png",
     "category": "accessories",
@@ -150,14 +118,6 @@
     "displayName": "Poop Face",
     "nativeSize": 228,
     "snapDefault": { "x": 256, "y": 311, "width": 228, "height": 186 }
-  },
-  {
-    "id": "extras-sparkle",
-    "filename": "extras/sparkle.png",
-    "category": "accessories",
-    "displayName": "Sparkle",
-    "nativeSize": 128,
-    "snapDefault": { "x": 418, "y": 95, "width": 90, "height": 90 }
   },
   {
     "id": "brows-pinched-close-set-high",
