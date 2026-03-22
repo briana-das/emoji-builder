@@ -96,6 +96,14 @@
     "snapDefault": { "x": 256, "y": 264, "width": 332, "height": 156 }
   },
   {
+    "id": "eyes-heart-sparkle",
+    "filename": "eyes/heart-sparkle-eyes.png",
+    "category": "eyes",
+    "displayName": "Heart Sparkle Eyes",
+    "nativeSize": 274,
+    "snapDefault": { "x": 256, "y": 258, "width": 274, "height": 125 }
+  },
+  {
     "id": "eyes-winking-open",
     "filename": "eyes/winking-open-eye.png",
     "category": "eyes",
