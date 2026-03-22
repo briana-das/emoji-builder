@@ -64,6 +64,38 @@
     "snapDefault": { "x": 256, "y": 264, "width": 332, "height": 156 }
   },
   {
+    "id": "eyes-eye-twitch",
+    "filename": "eyes/eye-twitch.png",
+    "category": "eyes",
+    "displayName": "Eye Twitch",
+    "nativeSize": 332,
+    "snapDefault": { "x": 256, "y": 264, "width": 332, "height": 156 }
+  },
+  {
+    "id": "eyes-wide-open-with-eyebags",
+    "filename": "eyes/wide-open-with-eyebags.png",
+    "category": "eyes",
+    "displayName": "Wide Open With Eyebags",
+    "nativeSize": 332,
+    "snapDefault": { "x": 256, "y": 273, "width": 332, "height": 173 }
+  },
+  {
+    "id": "eyes-heavy-lidded-bloodshot-with-eyebags",
+    "filename": "eyes/heavy-lidded-bloodshot-with-eyebags.png",
+    "category": "eyes",
+    "displayName": "Heavy Lidded Bloodshot With Eyebags",
+    "nativeSize": 332,
+    "snapDefault": { "x": 256, "y": 273, "width": 332, "height": 173 }
+  },
+  {
+    "id": "eyes-wide-open-bloodshot",
+    "filename": "eyes/wide-open-bloodshot.png",
+    "category": "eyes",
+    "displayName": "Wide Open Bloodshot",
+    "nativeSize": 332,
+    "snapDefault": { "x": 256, "y": 264, "width": 332, "height": 156 }
+  },
+  {
     "id": "eyes-winking-open",
     "filename": "eyes/winking-open-eye.png",
     "category": "eyes",
